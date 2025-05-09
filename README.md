@@ -72,4 +72,4 @@ Special thanks to **samallx** for sharing resources and inspiration that helped 
 4. Always test in a **controlled** and **authorized** environment
 
 ```bash
-git clone https://github.com/yourusername/HackStarter-M5StickCPlus2.git
+git clone https://github.com/FlopperOnTTv/HackStarterPack-M5StickCPlus2.git
