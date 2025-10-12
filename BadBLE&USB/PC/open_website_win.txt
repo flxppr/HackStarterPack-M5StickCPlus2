@@ -3,5 +3,5 @@ REM
 DELAY 1000
 GUI r
 DELAY 500
-STRING https://youtu.be/dQw4w9WgXcQ?si=Vb3ckJ_LKLrrwL5a
+STRING https://youtube.com
 ENTER
