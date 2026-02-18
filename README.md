@@ -44,9 +44,6 @@ A set of prebuilt "evil portal" templates designed to simulate phishing environm
 - Hands-on walkthroughs of WiFi jamming, deauth attacks, and protocol analysis
 - Educational breakdowns of tool usage and real-world implications
 
-### 🔹 MyProducts
-Showcase of actual hardware setups and configurations used in the project. Helpful for understanding how tools are sourced, connected, and deployed responsibly.
-
 ---
 
 ## 🎯 Purpose of This Kit
