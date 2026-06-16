@@ -1,7 +1,7 @@
 # HackStarter-M5StickCPlus2 🚀
 
 **An educational hacking starter kit for the M5Stick C Plus 2**  
-Learn the fundamentals of wireless protocols, device exploitation, and system security—ethically and responsibly.
+Learn the fundamentals of wireless protocols, device exploitation, and system security ethically and responsibly.
 
 ---
 
